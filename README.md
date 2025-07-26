@@ -3,7 +3,7 @@
 
 ## 📷 Dashboard Preview
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f534df58-4387-4226-9d21-59c72d729c30" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7aa3949d-c35e-4072-a4ac-f22966e39651" />
 
 ---
 
