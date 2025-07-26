@@ -27,7 +27,7 @@ This project was completed as part of the **Internshala Data Science with GenAI 
 
 ## 🔗 Connect With Me
 
-- 📧 Email: yourname@email.com  
+- 📧 Email: yadavamanyadav32@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-yadav-6b64b6253/)
 
 ---
